@@ -1,0 +1,71 @@
+#title {
+  /* background-image: url("images.jpg"); */
+  background-color: #263238;
+}
+
+
+.container-fluid{
+  padding: 3% 5%;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Oswald-Regular';
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+h2{
+  font-family: 'Oswald-Regular';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: 'Oswald-Regular';
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+i{
+  color:#263238;
+}
+i:hover{
+  color:#4f5b62;
+}
+.header-img{
+  width: 100px;
+  border-radius: 100px;
+}
+
+.navbar-brand{
+  font-family: 'Oswald';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding-bottom: 3rem;
+}
+
+#features{
+  padding: 3% 15%
+}
+.features-box{
+  text-align: center;
+  padding: 3%;
+}
+
+/* testimonial section */
+
+#testimonial{
+  padding: 3% 15%;
+  text-align: center;
+  background-color: #263238;
+  color:white;
+}
+.testimonial-image{
+  width: 50%;
+}
